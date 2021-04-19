@@ -8,7 +8,7 @@ The simulations are made with SimulIDE 0.4.15-SR1 and to download this software 
 
 https://www.simulide.com/p/downloads.html
 
-There is a forum there with some more details
+This forum gives some more details in the topic with title MPlab.
 
 https://simulide.forumotion.com/f9-microcontrollers
 
